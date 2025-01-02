@@ -1,6 +1,5 @@
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2MyOGFnNXphN2xmM21yNnAxb3c4NHRoNXE2NGd2eThpZ3F6aHJndSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
-  
 </div>
 
 ###
@@ -9,13 +8,12 @@
   <a href="https://www.linkedin.com/in/veerendra-kumar-koppula/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/veerendra_kumar_koppula/profilecard/?igsh=MTRwMG13aTliOW9haA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://veerendrakumarkoppula.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
   </a>
   <a href="mailto:veerendrakumarkoppula@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
- 
 </div>
 
 ###
@@ -50,7 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrX7yoCF0oIOFUDibu9uchgeyihc1pRCUOcQ&s" height="40" alt="aws logo"  />
   <img width="12" />
@@ -65,7 +62,7 @@
   <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" height="40" alt="Microsoft_Excel logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL logo"  />
-  </div>
+</div>
 
 ###
 
@@ -76,5 +73,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=KoppulaVeerendraKumar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
