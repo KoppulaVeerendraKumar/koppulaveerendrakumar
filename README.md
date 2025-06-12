@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently pursuing B.TECH 4th year  ...</br>💬 Ask me about anything, I am happy to help.<br>- ⚡ My branch is  CSE+(Artificial intilligence and Data Science)</p>
+<p align="left">- 📚 I have completed my B.Tech ...</br>💬 Ask me about anything, I am happy to help.<br>- ⚡ My branch is  CSE+(Artificial intilligence and Data Science)</p>
 
 ###
 
