@@ -36,34 +36,34 @@
 </p>
 
 ###
-
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" alt="python logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" alt="html5 logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" alt="css3 logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" alt="javascript logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" alt="react logo" />
   <img width="10" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrX7yoCF0oIOFUDibu9uchgeyihc1pRCUOcQ&s" height="24" alt="aws logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrX7yoCF0oIOFUDibu9uchgeyihc1pRCUOcQ&s" width="24" alt="aws logo" />
   <img width="10" />
-  <img src="https://miro.medium.com/v2/resize:fit:1200/0*os46BZb4bK8cgwcx.png" height="24" alt="vpc logo" />
+  <img src="https://miro.medium.com/v2/resize:fit:1200/0*os46BZb4bK8cgwcx.png" width="24" alt="vpc logo" />
   <img width="10" />
-  <img src="https://miro.medium.com/v2/resize:fit:360/0*-jK6l0mVK19v2z0X.png" height="24" alt="ec2 instance logo" />
+  <img src="https://miro.medium.com/v2/resize:fit:360/0*-jK6l0mVK19v2z0X.png" width="24" alt="ec2 instance logo" />
   <img width="10" />
-  <img src="https://miro.medium.com/v2/resize:fit:401/0*pxlnDm-ncQdC0UEL.png" height="24" alt="s3 bucket logo" />
+  <img src="https://miro.medium.com/v2/resize:fit:401/0*pxlnDm-ncQdC0UEL.png" width="24" alt="s3 bucket logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="24" alt="bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="24" alt="bootstrap logo" />
   <img width="10" />
-  <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" height="24" alt="Microsoft Excel logo" />
+  <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" width="24" alt="Microsoft Excel logo" />
   <img width="10" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="24" alt="SQL logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="24" alt="SQL logo" />
 </div>
+
 
 ###
 
