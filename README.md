@@ -51,11 +51,11 @@
   <img width="10" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrX7yoCF0oIOFUDibu9uchgeyihc1pRCUOcQ&s" width="34" alt="aws logo" />
   <img width="10" />
-  <img src="https://miro.medium.com/v2/resize:fit:1200/0*os46BZb4bK8cgwcx.png" width="44" alt="vpc logo" />
+  <img src="https://miro.medium.com/v2/resize:fit:1200/0*os46BZb4bK8cgwcx.png" width="50" alt="vpc logo" />
   <img width="10" />
-  <img src="https://miro.medium.com/v2/resize:fit:360/0*-jK6l0mVK19v2z0X.png" width="44" alt="ec2 instance logo" />
+  <img src="https://miro.medium.com/v2/resize:fit:360/0*-jK6l0mVK19v2z0X.png" width="50" alt="ec2 instance logo" />
   <img width="10" />
-  <img src="https://miro.medium.com/v2/resize:fit:401/0*pxlnDm-ncQdC0UEL.png" width="44" alt="s3 bucket logo" />
+  <img src="https://miro.medium.com/v2/resize:fit:401/0*pxlnDm-ncQdC0UEL.png" width="50" alt="s3 bucket logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="24" alt="bootstrap logo" />
   <img width="10" />
